@@ -13,7 +13,7 @@
     <div class="image-box">
       <img src="resources/Jessicas_PhD.jpeg" alt="Jessicas_PhD.jpeg">
     </div>
-    <figcaption>(4/25/23) Jessica Xie's PhD thesis defence at Yong Loo Lin School Of Medicine! Congratulations, Jessica!</figcaption>
+    <figcaption>(25/4/23) Jessica Xie's PhD thesis defence at Yong Loo Lin School Of Medicine! Congratulations, Jessica!</figcaption>
   </div>
   <div class="responsive-image-container">
     <div class="image-box">
