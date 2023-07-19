@@ -38,7 +38,7 @@
             </figure>
             <h3 style="text-align:center">Judy Saw</h3>
             <p style="text-align:center">Senior Research Officer</p>
-            <p style="text-align:center">M.Sc National University of Singapore</p>
+            <p style="text-align:center">M.Sc. National University of Singapore</p>
             <p style="text-align:center"> </p>
           </div>
       </li>  
@@ -52,7 +52,7 @@
             </figure>
             <h3 style="text-align:center">Matas Vitkauskas</h3>
             <p style="text-align:center">Research Officer</p>
-            <p style="text-align:center">B.Sc Yale-NUS College, Singapore</p>
+            <p style="text-align:center">B.Sc. Yale-NUS College, Singapore</p>
           </div>
      </li> 
      <!--Jessica-->
@@ -91,7 +91,7 @@
          class="img-responsive" alt="">
          </figure>
          <h3 style="text-align:center">Aimee_Tapoan</h3>
-         <p style="text-align:center">Assistant Lab Officer</p>
+         <p style="text-align:center">Lab Officer</p>
          <p style="text-align:center">Sophomore in Biomedical Engineering, Singapore University of Social Science</p>
        </div>
      </li> 
@@ -119,7 +119,21 @@
         </figure>
         <h3 style="text-align:center">Nur' Ain Binte Ali</h3>
         <p style="text-align:center">Senior Research Officer</p>
-        <p style="text-align:center">MSc in Biotechnology, National University of Singapore</p>
+        <p style="text-align:center">M.Sc. in Biotechnology, National University of Singapore</p>
+      </div>
+     </li>  
+     <!--Bao Quyen-->
+     <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
+      <div class="cnt-block equal-hight" style="height: 500px;">
+        <figure style = "text-align:center;">
+        <!--img-->
+        <img src="/resources/Quyen.png" height="250px" width="180"
+        class="img-responsive" alt="">
+        </figure>
+        <h3 style="text-align:center">Quyen Do</h3>
+        <p style="text-align:center">Research fellow</p>
+        <p style="text-align:center">DPhil in Physiology, Anatomy and Genetics, University of Oxford, UK</p>
+        <p style="text-align:center">B.Sc. in Biomedical Sciences (Neuroscience), Imperial College London, UK</p>
       </div>
      </li>  
     </ul>
