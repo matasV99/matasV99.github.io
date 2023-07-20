@@ -172,14 +172,6 @@
             <p style="text-align:center">Undergraduate Intern</p>
             <p style="text-align:center">Senior at Atma Jaya Catholic University of Indonesia</p>
           </div>
-        </li> -->
-        <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
-          <h3 style="text-align:center">Alumni before March 2023</h3>
-          <p style="text-align:center"> Denise Leung </p>
-          <p style="text-align:center"> Jonathan Jayadi </p>
-          <p style="text-align:center"> Janice Sui Ping Ong </p>
-          <p style="text-align:center"> Benny? </p>
-          <p style="text-align:center"> Guoxudong? </p>
-          </li>
+        </li> --
       </ul>
     </div>
