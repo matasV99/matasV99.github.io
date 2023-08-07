@@ -134,11 +134,11 @@
 <div class="container">
   <h3 style="text-align:center"> </h3>
   <ul class="row" style="margin:20px 0;">
-     <!--Bryan-->
+     Bryan
      <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
       <div class="cnt-block equal-hight" style="height: 500px; ">
          <figure style = "text-align:center;">
-         <!--img-->
+         img
          <img src="/resources/Brian_Lee.jpeg" height="250px" 
          class="img-responsive" alt="">
          </figure>
@@ -147,19 +147,19 @@
          <p style="text-align:center">Incoming Freshman in Humanities and Sciences, National University of Singapore</p>
        </div>
      </li> 
-     <!--Jonathan-->
-     <!-- <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
-          <div class="cnt-block equal-hight" style="height: 500px;">
-            <figure style = "text-align:center;">
-            img
-            <img src="/resources/Jonathan_Jayadi.jpg" height="250px"
-            class="img-responsive" alt="">
-            </figure>
-            <h3 style="text-align:center">Jonathan Jayadi</h3>
-            <p style="text-align:center">Undergraduate Intern</p>
-            <p style="text-align:center">Senior at Atma Jaya Catholic University of Indonesia</p>
-          </div>
-        </li> --
-      </ul>
-    </div>
-    -->
+     Jonathan
+     <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
+      <div class="cnt-block equal-hight" style="height: 500px;">
+         <figure style = "text-align:center;">
+         img
+         <img src="/resources/Jonathan_Jayadi.jpg" height="250px"
+         class="img-responsive" alt="">
+         </figure>
+         <h3 style="text-align:center">Jonathan Jayadi</h3>
+         <p style="text-align:center">Undergraduate Intern</p>
+         <p style="text-align:center">Senior at Atma Jaya Catholic University of Indonesia</p>
+      </div>
+    </li>
+  </ul>
+</div>
+-->
