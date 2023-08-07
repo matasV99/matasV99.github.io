@@ -29,19 +29,6 @@
             <p style="text-align:center">B.A. in Natural Sciences, University of Cambridge, UK </p>
           </div>
       </li>
-      <!--Judy-->
-      <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
-          <div class="cnt-block equal-hight" style="height: 500px;">
-            <figure style = "text-align:center;">
-            <!--img-->
-            <img src="/resources/Judy_Saw.jpg" height="250px" class="img-responsive" alt="">
-            </figure>
-            <h3 style="text-align:center">Judy Saw</h3>
-            <p style="text-align:center">Senior Research Officer</p>
-            <p style="text-align:center">M.Sc. National University of Singapore</p>
-            <p style="text-align:center"> </p>
-          </div>
-      </li>  
       <!--Matas-->
       <li class="col-12 col-md-6 col-lg-4" style="list-style-type: none">
           <div class="cnt-block equal-hight" style="height: 500px;">
@@ -139,7 +126,7 @@
     </ul>
   </div>
 
-
+<!--
 <div class="divider">
   <h2>Lab Alumni</h2>
 </div>
@@ -175,3 +162,4 @@
         </li> --
       </ul>
     </div>
+    -->
